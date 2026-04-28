@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "imports": [],
+  "dialogStyle": {},
+  "sharedMemories": [],
+  "nicknames": {
+    "companionCallsUser": [],
+    "userCallsCompanion": [],
+    "detectedPatterns": []
+  },
+  "emotionalProfile": {},
+  "frequentTopics": [],
+  "interactionPatterns": {},
+  "createdAt": "",
+  "updatedAt": ""
+}
